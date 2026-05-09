@@ -1,7 +1,7 @@
 # HEROIC EXTERNAL CHEAT
 
 **Undetected**
-This is currently undetected 100%, we are offering a free cheat to build our brand for the meantime. Discord server is underway, in the meantime you can contact @heroicone on Discord!
+This is currently 100% undetected, we are offering a free cheat to build our brand for the next couple months. Our team is working on a discord server and will be updating the external at anytime it's neccasary, in the meantime you can contact @heroicone on Discord if you encounter any issues!
 
 **Info** 📝
 Open/Close Menu key = Insert
