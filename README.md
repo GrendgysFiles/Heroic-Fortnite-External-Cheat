@@ -34,7 +34,6 @@ To inject the cheat, please temporarily disable your antivirus software. This is
   - Trigger Bot
   - AirStuck
   - 360 Fov
-  - Instant Revive
   - Fov Circle off/on
 - Misc
   - Crosshair
