@@ -5,7 +5,7 @@ This is currently 100% undetected, we are offering a free cheat to build our bra
 
 **Info** 📝
 Open/Close Menu key = Insert
- 
+  
 To inject the cheat, please temporarily disable your antivirus software. This is a common requirement for external cheats to function correctly and avoid detection.
 
 **Features** 💿
