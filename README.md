@@ -4,7 +4,7 @@
 This is currently 100% undetected, we are offering a free cheat to build our brand for the next couple months. Our team is working on a discord server and will be updating the external at anytime it's neccasary, in the meantime you can contact @heroicone on Discord if you encounter any issues!
 
 **Info** 📝
-Open/Close Menu key = Insert
+Open/Close Menu key = Insert 
   
 To inject the cheat, please temporarily disable your antivirus software. This is a common requirement for external cheats to function correctly and avoid detection.
 
