@@ -8,7 +8,7 @@ Open/Close Menu key = Insert
    
 To inject the cheat, please temporarily disable your antivirus software. This is a common requirement for external cheats to function correctly and avoid detection.
 
-**Features** 💿
+**Features** 💿 
 - Player Visuals
   - Visuals Enabled (F5)
   - Snaplines Enabled
